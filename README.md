@@ -1,0 +1,2 @@
+# palabraria
+dicionario de espanhol
